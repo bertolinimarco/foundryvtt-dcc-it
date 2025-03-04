@@ -7,8 +7,11 @@
     "minimum": "9",
     "verified": "12"
   },
-  "author": "bertolinimarco",
-  "systems": ["dcc"],
+  "authors": [
+    {
+      "name": "bertolinimarco"
+    }
+  ],
   "languages": [
     {
       "lang": "it",
