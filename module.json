@@ -3,8 +3,8 @@
   "title": "DCC Dungeon Crawl Classics Traduzione Italiana",
   "description": "Traduzione in italiano per il sistema DCC Dungeon Crawl Classics",
   "version": "0.51.42",
-  "minimumCoreVersion": "0.51.42",
-  "compatibleCoreVersion": "0.51.42",
+  "minimumCoreVersion": "11",
+  "compatibleCoreVersion": "13",
   "author": "bertolinimarco",
   "systems": ["dcc"],
   "languages": [
