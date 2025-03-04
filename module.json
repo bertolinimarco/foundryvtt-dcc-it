@@ -2,7 +2,7 @@
   "name": "foundry-dcc-it",
   "title": "DCC Dungeon Crawl Classics Traduzione Italiana",
   "description": "Traduzione in italiano per il sistema DCC Dungeon Crawl Classics",
-  "version": "0.0.1",
+  "version": "0.51.42",
   "minimumCoreVersion": "0.51.42",
   "compatibleCoreVersion": "0.51.42",
   "author": "bertolinimarco",
