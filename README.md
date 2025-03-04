@@ -2,7 +2,7 @@
 
 Traduzione italiana del sistema DCC (Dungeon Crawl Classics) per Foundry Virtual Tabeltop.
 
-# Installation
+## Installazione
 
 - Copia questo link e incollalo nel campo "Install Module" di FoundryVTT:
 
