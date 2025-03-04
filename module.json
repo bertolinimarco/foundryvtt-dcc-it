@@ -1,0 +1,20 @@
+{
+  "name": "foundry-dcc-it",
+  "title": "DCC Dungeon Crawl Classics Traduzione Italiana",
+  "description": "Traduzione in italiano per il sistema DCC Dungeon Crawl Classics",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.6.6",
+  "compatibleCoreVersion": "0.8.9",
+  "author": "bertolinimarco",
+  "systems": ["dcc"],
+  "languages": [
+    {
+      "lang": "it",
+      "name": "Italiano",
+      "path": "it.json"
+    }
+  ],
+  "url": "https://github.com/bertolinimarco/foundry-dcc-it/",
+  "manifest": "https://github.com/bertolinimarco/foundry-dcc-it/raw/main/module.json",
+  "download": "https://github.com/bertolinimarco/foundry-dcc-it/archive/main.zip"
+}
