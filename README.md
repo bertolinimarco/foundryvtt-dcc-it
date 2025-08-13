@@ -7,7 +7,7 @@ Traduzione italiana del sistema DCC (Dungeon Crawl Classics) per Foundry Virtual
 - Copia questo link e incollalo nel campo "Install Module" di FoundryVTT:
 
 ```text
-https://github.com/bertolinimarco/foundry-dcc-it/raw/main/module.json
+https://raw.githubusercontent.com/bertolinimarco/foundry-dcc-it/refs/heads/main/module.json
 ```
 
 - Abilita il modulo nelle impostazioni.
