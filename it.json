@@ -30,7 +30,7 @@
   "DCC.AbilityStrShort": "For",
   "DCC.ACOtherMod": "Altri modificatori alla CA",
   "DCC.ACOtherModHint": "Modificatore alla CA che non deriva da oggetti o da abilità e che deve essere incluso nel calcolo automatico.",
-  "DCC.ActionDice": "Dado Azione",
+  "DCC.ActionDice": "D. Azione",
   "DCC.ActionDiceInvalid": "Il Dado Azione del personaggio non contiene un'espressione valida. É stato impostato default su 1d20",
   "DCC.ActionDiceMacroName": "Dado Azione ({die})",
   "DCC.ActionDiceSheetHint": "Inserisci qui il tuo dado azione principale, imposta più dadi azione nel menu </>Configura nella barra del titolo",
