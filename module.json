@@ -1,10 +1,10 @@
 {
   "id": "foundry-dcc-it",
-  "title": "DCC Dungeon Crawl Classics - Traduzione Italiana",
-  "description": "Traduzione in italiano per il sistema DCC Dungeon Crawl Classics",
+  "title": "Dungeon Crawl Classics - Traduzione Italiana",
+  "description": "Traduzione in italiano per il sistema Dungeon Crawl Classics (DCC)",
   "version": "0.60.20a",
   "compatibility": {
-    "minimum": "12",
+    "minimum": "13",
     "verified": "13"
   },
   "authors": [
