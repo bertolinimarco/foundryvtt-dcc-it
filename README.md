@@ -13,3 +13,10 @@ https://raw.githubusercontent.com/bertolinimarco/foundry-dcc-it/refs/heads/main/
 - Abilita il modulo nelle impostazioni.
 
 - Scegli "Italiano" come lingua di sistema nelle impostazioni di FoundryVTT.
+
+## Crediti
+
+Traduzione a cura di:
+
+- Emanuele Granatello (Kaizoku Press)
+- Marco Bertolini
