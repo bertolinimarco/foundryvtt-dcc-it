@@ -1,4 +1,4 @@
-# foundry-dcc-it
+# foundryvtt-dcc-it
 
 Traduzione italiana del sistema DCC (Dungeon Crawl Classics) per Foundry Virtual Tabletop.
 
@@ -7,7 +7,7 @@ Traduzione italiana del sistema DCC (Dungeon Crawl Classics) per Foundry Virtual
 - Copia questo link e incollalo nel campo "Install Module" di FoundryVTT:
 
 ```text
-https://raw.githubusercontent.com/bertolinimarco/foundry-dcc-it/refs/heads/main/module.json
+https://raw.githubusercontent.com/bertolinimarco/foundryvtt-dcc-it/refs/heads/main/module.json
 ```
 
 - Abilita il modulo nelle impostazioni.
