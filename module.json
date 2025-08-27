@@ -1,7 +1,7 @@
 {
   "id": "foundryvtt-dcc-it",
-  "title": "Dungeon Crawl Classics - Traduzione Italiana",
-  "description": "Traduzione in italiano per il sistema Dungeon Crawl Classics (DCC)",
+  "title": "Dungeon Crawl Classics - Traduzione Italiana. (Ufficiale)",
+  "description": "Traduzione ufficiale in italiano per il sistema Dungeon Crawl Classics (DCC), inclusa anche nel modulo di FoundryVTT DCC.",
   "version": "0.60.22",
   "compatibility": {
     "minimum": "13",
