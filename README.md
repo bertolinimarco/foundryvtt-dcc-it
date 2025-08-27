@@ -1,6 +1,6 @@
-# foundryvtt-dcc-it
+# FoundryVTT Traduzione Italiana (Ufficiale)
 
-Traduzione italiana del sistema DCC (Dungeon Crawl Classics) per Foundry Virtual Tabletop.
+Traduzione ufficiale in italiano per il sistema Dungeon Crawl Classics (DCC), inclusa anche nel modulo di FoundryVTT DCC.
 
 ## Installazione
 
