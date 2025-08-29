@@ -3,6 +3,7 @@
 ## Traduzione Italiana (Ufficiale)
 
 Traduzione ufficiale in italiano per il sistema Dungeon Crawl Classics (DCC).
+
 Inclusa nel [modulo principale di FoundryVTT DCC](https://github.com/foundryvtt-dcc/dcc), questo repository contiene le versioni beta.
 
 ## Installazione
